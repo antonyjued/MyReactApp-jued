@@ -14,7 +14,4 @@ flowchart
 
 Highlight Comment is `Here`
 
-$$
-
-{bm=a \plus b \over a \minus b}
-$$
+$$ bm=a \pm b \over a \pm b $$
