@@ -4,6 +4,7 @@
 
 
 ```mermaid
+flowchart
     subgraph myApp
     Home(((Home)))-->Review(Review)
     style Home fill:red
