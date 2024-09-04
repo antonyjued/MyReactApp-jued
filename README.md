@@ -14,4 +14,4 @@ flowchart
 
 Highlight Comment is `Here`
 
-$$ bm=a \pm b \over a \pm b $$
+$$bm= {a \pm b \over a \pm b}$$
