@@ -1,3 +1,9 @@
+<div class="alert alert-block alert-success">
+
+<p>Hi success </p>
+
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
